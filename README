@@ -1,0 +1,17 @@
+# cs373
+
+My Clojure version of questions and homeworks of CS373: Programming a Robotic Car @ udacity
+http://www.udacity.com/overview/Course/cs373
+
+## Usage
+
+cs373.unit1.core/where-am-i?
+* Equivalent of Question 26. Sense And Move 2
+
+For all other funcions, see docstrings @ cs373.unit1.core
+
+## License
+
+Distributed under the Eclipse Public License, the same as Clojure.
+
+This file was modified by IntelliJ IDEA 11.0.2 for binding GitHub repository
